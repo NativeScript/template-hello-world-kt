@@ -2,6 +2,8 @@
 
 This template creates a "Hello, world" NativeScript app using KotlinJS.
 
+> NOTE: KotlinJS support is highly experimental!
+
 ```
 tns create my-hello-world-kt --template https://github.com/NativeScript/template-hello-world-kt
 ```
